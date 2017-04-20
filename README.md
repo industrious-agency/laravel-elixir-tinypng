@@ -4,7 +4,7 @@ Original package by [Kffein](https://github.com/kffein/kffein-elixir-tinypng), f
 
 ## Instructions
 
-1. Go to (Tinypng)[https://tinypng.com/developers] and generate an API Key
+1. Go to [Tinypng](https://tinypng.com/developers) and generate an API Key
 2. In your `gulpfile.js`, specify the API key and any folder options in the following format:
 
 ```javascript
