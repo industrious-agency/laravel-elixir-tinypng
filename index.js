@@ -6,8 +6,8 @@ var tinypng	 = require('gulp-tinypng-compress');
 Elixir.extend('tinypng', function(options) {
 
 		options = _.extend({
-			src: config.assetsPath + '/img',
-			output: config.publicPath + '/img',
+			src: Elixir.config.assetsPath + '/img',
+			output: Elixir.config.publicPath + '/img',
 			tinypngKey: ''
 		}, options);
 
