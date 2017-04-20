@@ -14,5 +14,3 @@ elixir.config.img = {
   tinypngKey: 'APIKEY'
 };
 ```
-
-3. Enjoy your chops.
