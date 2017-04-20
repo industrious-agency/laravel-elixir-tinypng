@@ -8,6 +8,8 @@ Original package by [Kffein](https://github.com/kffein/kffein-elixir-tinypng), f
 2. In your `gulpfile.js`, specify the API key and any folder options in the following format:
 
 ```javascript
+require('laravel-elixir-tinypng');
+
 elixir.config.img = {
   folder: elixir.config.assetsPath + '/img',
   outputFolder: elixir.config.publicPath + '/img',

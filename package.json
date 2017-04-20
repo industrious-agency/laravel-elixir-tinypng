@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-tinypng",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Laravel Elixir wrapper around tinypng-compress Gulp task.",
   "main": "index.js",
   "scripts": {
